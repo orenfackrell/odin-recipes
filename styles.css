@@ -1,14 +1,37 @@
 * {
     font-family: 'Times New Roman', Times, serif;
     color: black;
+
+}
+
+.link{
+    box-sizing: border-box;
+    width: 800/3px;
+    display: inline;
+    padding: 10px;
+    margin: auto 2.5px;
+}
+
+.homepage-title{ 
+    font-size: 38px;
+    text-align: center;
+}
+.button-text{
     text-align: center;
 }
 
-h1 {
-    font-size: 38px;
+hr{
+    border-bottom: solid black 1px;
 }
 
-button{
-    padding: 10px;
-    margin: auto 40px;
+.return {
+    text-align: center;
 }
+.content {
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+    border: dashed orange;
+    background-color: white;
+}
+
