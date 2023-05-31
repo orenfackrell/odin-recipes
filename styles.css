@@ -1,0 +1,14 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+button{
+    padding: 10px;
+    margin: auto 40px;
+}
