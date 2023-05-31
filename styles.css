@@ -1,9 +1,11 @@
 * {
     font-family: 'Times New Roman', Times, serif;
     color: black;
-
 }
 
+body {
+    background-color: rgb(198, 145, 248);
+}
 .link{
     box-sizing: border-box;
     width: 800/3px;
